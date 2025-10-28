@@ -2,8 +2,6 @@
 
 A modern, beautifully designed web application that serves as a centralized hub for discovering and accessing the most powerful AI tools and platforms available today.
 
-![AI Hub Preview](https://via.placeholder.com/800x400/0f172a/ffffff?text=AI+Hub+Showcase)
-
 ## ✨ Features
 
 - **Categorized Browsing** - Organized AI tools by type (Chat Assistants, Research, Code, Creative)
@@ -25,4 +23,4 @@ A modern, beautifully designed web application that serves as a centralized hub 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-hub.git
+   git clone https://github.com/NeonRohan/ai-hub.git
