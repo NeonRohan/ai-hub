@@ -48,12 +48,6 @@ const toolsData = {
         { name: "VirusTotal", description: "Online security tool for malware analysis and file scanning.", icon: "fas fa-virus", link: "https://www.virustotal.com/" }
     ],
     "research": [ 
-
-{ name: "RefSeek", description: "Academic search engine for web documents, papers, and books.", icon: "fas fa-search", link: "https://www.refseek.com/" },
-
-
-{ name: "Zendy", description: "AI-powered research library for discovering and accessing academic papers.", icon: "fas fa-university", link: "https://zendy.io/" },
-
         
         { name: "RefSeek", description: "Academic search engine for web documents, papers, and books.", icon: "fas fa-search", link: "https://www.refseek.com/" },
         { name: "Zendy", description: "AI-powered research library for discovering and accessing academic papers.", icon: "fas fa-university", link: "https://zendy.io/" },
