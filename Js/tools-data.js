@@ -49,10 +49,10 @@ const toolsData = {
     ],
     "research": [ 
 
-{ name: "RefSeek", description: "Academic search engine for web documents, papers, and books.", icon: "fas fa-search", link: "https://www.refseek.com/" }
+{ name: "RefSeek", description: "Academic search engine for web documents, papers, and books.", icon: "fas fa-search", link: "https://www.refseek.com/" },
 
 
-{ name: "Zendy", description: "AI-powered research library for discovering and accessing academic papers.", icon: "fas fa-university", link: "https://zendy.io/" }
+{ name: "Zendy", description: "AI-powered research library for discovering and accessing academic papers.", icon: "fas fa-university", link: "https://zendy.io/" },
 
         
         { name: "RefSeek", description: "Academic search engine for web documents, papers, and books.", icon: "fas fa-search", link: "https://www.refseek.com/" },
