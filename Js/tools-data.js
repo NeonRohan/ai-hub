@@ -19,27 +19,26 @@ const toolsData = {
         { name: "Andi AI", description: "AI-powered chatbot and search engine with privacy focus.", icon: "fas fa-search-plus", link: "https://andisearch.com/" },
         { name: "DorkGPT", description: "AI tool for generating advanced search queries and prompts.", icon: "fas fa-terminal", link: "https://dorkgpt.com/" },
 
-  { name: "Meta AI", description: "Meta's AI assistant integrated across their platforms and services.", icon: "fas fa-layer-group", link: "https://meta.com/" },
-  { name: "Pi AI", description: "Personal AI assistant focused on conversational interaction and support.", icon: "fas fa-circle", link: "https://pi.ai/onboarding" },
-  { name: "Grok", description: "xA's AI assistant with real-time knowledge and conversational capabilities.", icon: "fas fa-bolt", link: "https://grok.com/" },
-  { name: "Zai", description: "AI assistant platform for various applications and use cases.", icon: "fas fa-sparkles", link: "https://z.ai" },
-  { name: "MiniMax Agent AI", description: "MiniMax's AI agent platform for intelligent interactions.", icon: "fas fa-chess-queen", link: "https://agent.minimax.io" },
-  { name: "Baichuan AI", description: "Baichuan's Ying Chat AI assistant with Chinese language focus.", icon: "fas fa-water", link: "https://ying.baichuan-ai.com/chat" },
-  { name: "ERNIE Bot", description: "Baidu's Yiyan AI assistant with advanced language understanding.", icon: "fas fa-brain", link: "https://yiyan.baidu.com" },
-  { name: "Baidu Chat", description: "Baidu's alternative AI chat platform and assistant.", icon: "fas fa-search", link: "https://chat.baidu.com" },
-  { name: "Hugging Face", description: "Platform for AI models, datasets, and machine learning resources.", icon: "fas fa-heart", link: "https://huggingface.co" },
-  { name: "LaChart", description: "AI charting and data visualization assistant platform.", icon: "fas fa-chart-bar", link: "https://lachart.ai" },
-  { name: "Google DeepMind", description: "Google's AI research division and advanced AI systems.", icon: "fas fa-infinity", link: "https://deepmind.google" },
-  { name: "Manus AI", description: "AI assistant platform for various intelligent applications.", icon: "fas fa-hand-point-right", link: "https://manus.im/" }
+        { name: "Meta AI", description: "Meta's AI assistant integrated across their platforms and services.", icon: "fas fa-layer-group", link: "https://meta.com/" },
+        { name: "Pi AI", description: "Personal AI assistant focused on conversational interaction and support.", icon: "fas fa-circle", link: "https://pi.ai/onboarding" },
+        { name: "Grok", description: "xA's AI assistant with real-time knowledge and conversational capabilities.", icon: "fas fa-bolt", link: "https://grok.com/" },
+        { name: "Zai", description: "AI assistant platform for various applications and use cases.", icon: "fas fa-sparkles", link: "https://z.ai" },
+        { name: "MiniMax Agent AI", description: "MiniMax's AI agent platform for intelligent interactions.", icon: "fas fa-chess-queen", link: "https://agent.minimax.io" },
+        { name: "Baichuan AI", description: "Baichuan's Ying Chat AI assistant with Chinese language focus.", icon: "fas fa-water", link: "https://ying.baichuan-ai.com/chat" },
+        { name: "ERNIE Bot", description: "Baidu's Yiyan AI assistant with advanced language understanding.", icon: "fas fa-brain", link: "https://yiyan.baidu.com" },
+        { name: "Baidu Chat", description: "Baidu's alternative AI chat platform and assistant.", icon: "fas fa-search", link: "https://chat.baidu.com" },
+        { name: "Hugging Face", description: "Platform for AI models, datasets, and machine learning resources.", icon: "fas fa-heart", link: "https://huggingface.co" },
+        { name: "LaChart", description: "AI charting and data visualization assistant platform.", icon: "fas fa-chart-bar", link: "https://lachart.ai" },
+        { name: "Google DeepMind", description: "Google's AI research division and advanced AI systems.", icon: "fas fa-infinity", link: "https://deepmind.google" },
+        { name: "Manus AI", description: "AI assistant platform for various intelligent applications.", icon: "fas fa-hand-point-right", link: "https://manus.im/" }
 
 
     ],
     "utility": [
 
 
-  { name: "GitHub AI Tools", description: "GitHub's platform for AI and machine learning projects and tools.", icon: "fab fa-github", link: "https://github.com/" },
-  { name: "Google Colab", description: "Google's Colaboratory for running Python notebooks in the cloud with AI capabilities.", icon: "fas fa-laptop-code", link: "https://colab.research.google.com" },
-
+        { name: "GitHub AI Tools", description: "GitHub's platform for AI and machine learning projects and tools.", icon: "fab fa-github", link: "https://github.com/" },
+        { name: "Google Colab", description: "Google's Colaboratory for running Python notebooks in the cloud with AI capabilities.", icon: "fas fa-laptop-code", link: "https://colab.research.google.com" },
         { name: "PentestGPT", description: "AI-powered penetration testing assistant for cybersecurity professionals.", icon: "fas fa-shield-alt", link: "https://www.pentestgpt.com/" },
         { name: "Globe Explorer", description: "AI-powered global data visualization tool for geographic analysis.", icon: "fas fa-globe-americas", link: "https://globeexplorer.ai/" },
         { name: "TAAFT", description: "Comprehensive directory of AI tools organized by category and use case.", icon: "fas fa-th-large", link: "https://taaft.com/" },
@@ -48,7 +47,9 @@ const toolsData = {
         { name: "file.io", description: "Secure file-sharing platform for temporary file transfers.", icon: "fas fa-file-upload", link: "https://www.file.io/" },
         { name: "VirusTotal", description: "Online security tool for malware analysis and file scanning.", icon: "fas fa-virus", link: "https://www.virustotal.com/" }
     ],
-    "research": [
+    "research": [ 
+        { name: "RefSeek", description: "Academic search engine for web documents, papers, and books.", icon: "fas fa-search", link: "https://www.refseek.com/" },
+        { name: "Zendy", description: "AI-powered research library for discovering and accessing academic papers.", icon: "fas fa-university", link: "https://zendy.io/" },
         { name: "Researcher", description: "Platform for discovering and organizing academic research papers.", icon: "fas fa-search", link: "https://www.researcher-app.com/" },
         { name: "R Discovery", description: "AI-powered research discovery platform for academic papers.", icon: "fas fa-compass", link: "https://discovery.researcher.life/" },
         { name: "Research Journal", description: "Mobile app for managing and reading research papers on the go.", icon: "fas fa-book-open", link: "https://play.google.com/store/apps/details?id=com.app.infonium.research" },
